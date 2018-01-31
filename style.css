@@ -1,0 +1,329 @@
+/*#title-banner --> id
+.title-banner --> class*/
+
+#banner {
+	background-image: url('27265222_10210979382029629_1382628434_o.jpg');
+	background-position:center center;
+	position: relative;
+	margin:0;
+	padding: 100px 0;
+}
+
+#title-banner {
+	font-family: 'Amatic SC', cursive;
+	font-size: 37px;
+	font-weight: normal;
+	text-align: center;
+	position: relative;
+    width: 100%;
+    color: white;
+
+}
+
+
+#title-lkg {
+	font-family: 'Abel', sans-serif;
+	font-size: 30px;
+	text-align: center;
+    width: 100%;
+    margin-top: 27px;
+    margin-bottom: 27px;
+
+}
+
+
+#history {
+	text-align: center;
+	margin: 40px 0;
+	background-image: url('FOND.jpg');
+}
+
+
+#title-navbar {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	font-weight:normal;
+	color: #3a4049;
+}
+
+
+#title-history {
+font-family: 'Amatic SC', cursive;
+font-size: 40px;
+font-weight: bold;
+
+}
+
+#title-créateur {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	font-weight:normal;
+	color: #8b0000;
+
+}
+
+
+#title-description {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight:normal;
+	font-size:23px;
+
+}
+
+#title-lesévés {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	font-weight:normal;
+	color: #3a4049;
+	text-align: center;
+}
+
+
+#title-prestations {
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px;
+	font-weight: normal
+	margin: 40px 0;
+	text-align: center;
+
+}
+
+
+#title-événements {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 14px;
+	font-weight:normal;
+	color: #8b0000;
+
+}
+
+
+#title-agenceévé {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 17px;
+	font-weight:normal;
+	color: #8b0000;
+	text-align: center;
+	background-image: url('FOND.jpg');
+	margin-bottom: 20px;
+	margin-top: 38px;
+	
+
+
+}
+
+#title-communitymanagement {
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	font-weight: bold;
+	color:black;
+	margin-bottom:18px;
+
+}
+
+
+#title-serviceévénementiel {
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	font-weight: bold;
+	color:black;
+
+}
+
+
+#title-descriptioncm {
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: black;
+
+
+}
+
+
+#title-descriptionsservice {
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color:black;
+
+}
+
+#title-golfcup {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #8b0000;
+
+}
+
+
+#title-descriptiongolf {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: black;
+
+}
+
+
+#title-dategolf {
+	font-family: 'Amatic SC', cursive;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+
+}
+
+
+#title-jeusetmatch {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #8b0000;
+
+}
+
+
+#title-descriptiontennis {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: black;
+
+}
+
+
+#title-datetennis {
+	font-family: 'Amatic SC', cursive;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+
+}
+
+
+#title-euromedscup {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #8b0000;
+
+}
+
+
+#title-descriptionregate {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: black;
+
+}
+
+
+#title-dateregate {
+	font-family: 'Amatic SC', cursive;
+	font-size: 20px;
+	font-weight: bold;
+	color: black;
+
+}
+
+
+
+#partenariats{
+	text-align : center;
+	font-family: 'Amatic SC', cursive;
+	font-size: 20px;
+	font-weight:normal;
+	color: #8b0000;
+	margin: 40px 0;
+	background-image: url('FOND.jpg');
+
+}
+
+#title-ca {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	font-weight:normal;
+	color: black;
+
+}
+
+
+#title-keskes {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	font-weight:normal;
+	color: black;
+
+}
+
+#title-accesud {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	font-weight:normal;
+	color: black;
+}
+
+#title-suiveznous {
+	text-align : center;
+	font-family: 'Amatic SC', cursive;
+	font-size: 20px;
+	font-weight:normal;
+	color: black;
+
+}
+
+
+#title-facebook {
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+#title-instagram {
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+
+
+#title-linkedin {
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+#title-map {
+	text-align : center;
+	font-family: 'Amatic SC', cursive;
+	font-size: 20px;
+	font-weight:normal;
+	color: black;
+	margin: 40px 0;
+	background-image: url('FOND.jpg');
+
+
+}
+
+.w-50 {
+	width: 50% ;
+	justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.mt25 {
+	margin-top: 25px;
+}
+
+.card-deck-perso {
+	min-height: 310px !important;
+}
